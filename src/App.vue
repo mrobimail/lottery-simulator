@@ -16,4 +16,5 @@ export default {
 
 <style lang="scss">
 @import "assets/css/app.scss";
+@import "assets/css/materialdesignicons.min.css";
 </style>
